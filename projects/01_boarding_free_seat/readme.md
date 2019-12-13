@@ -1,18 +1,13 @@
 # Lightened Free Seat Finder
 
 ## idea
+Show free seats with a light like free flats with blue light
+
 
 ### problem
 People without reserved seat board the train and don't easily free seats. They have to look at small signs which also shows from where to where this seat is free.
 
 ![Problem](01_problem.jpg)
-
-
-
-* problem: people 
-
-Show free seats with a light like free flats with blue light
-
 
 ### solution
 Use LED strips and connect them to reservation systems and show with lightened color (e.g. green) if they are now free and with a 2nd color in between (e.g. red) if they are free the whole trip.  
