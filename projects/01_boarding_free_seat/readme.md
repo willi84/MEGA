@@ -12,7 +12,7 @@ People without reserved seat board the train and don't easily free seats. They h
 
 ### ✔️ solution
 Use LED strips and connect them to reservation systems and show with lightened color (e.g. green) if they are now free and with a 2nd color in between (e.g. red) if they are free the whole trip.  
-<img src="01_sample.jpg">
+<img src="01_solution.jpg">
 
 ### 🧰 equipment
 * LED strip
