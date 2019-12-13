@@ -3,7 +3,8 @@
 ## idea
 
 ### problem
-People without reserved seat board the train and don't easily free seats. They have to look at small signs which also shows from where to where this seat is free
+People without reserved seat board the train and don't easily free seats. They have to look at small signs which also shows from where to where this seat is free.
+
 ![Problem](01_problem.jpg)
 
 
