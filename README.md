@@ -1,6 +1,9 @@
 # MEGA
 Make Eisenbahn Great Again
 
+* slides
+https://docs.google.com/presentation/d/1_aEyd9Gzj3Ikn6y96UxbpKC3gh8b04ItVmR3xLGDSi0/edit?usp=sharing
+
 ## projects
 
 | ID        | Link           | Preview  |
